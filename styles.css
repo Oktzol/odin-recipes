@@ -1,3 +1,17 @@
-.recipeList {
+
+* {
+    font-family: monospace, sans-serif, serif;
+}
+
+ .title {
     font-size: 50px;
+    background-color: #000000;
+    color: #ffffff;
+ }
+
+.recipeList {
+    font-size: 30px;
+    color: red;
+    background-color: yellow;
+
 }
