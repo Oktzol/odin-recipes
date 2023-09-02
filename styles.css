@@ -29,6 +29,11 @@
     margin: 0 auto;
 }
 
+.description{
+    font-size: 20px;
+    text-align: center;
+}
+
 img{
     border: 5px red solid;
 }
