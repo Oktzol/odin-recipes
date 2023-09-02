@@ -23,3 +23,8 @@
     padding: 40px;
     border: 10px orange double;
 }
+
+.recipeList li{
+    width: 380px;
+    margin: 0 auto;
+}
