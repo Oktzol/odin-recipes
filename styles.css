@@ -7,11 +7,13 @@
     font-size: 50px;
     background-color: #000000;
     color: #ffffff;
+    text-align: center;
  }
 
 .recipeList {
     font-size: 30px;
     color: red;
     background-color: yellow;
-
+    width: 500px;
+    margin: 0 auto;
 }
