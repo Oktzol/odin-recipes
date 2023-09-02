@@ -28,3 +28,7 @@
     width: 380px;
     margin: 0 auto;
 }
+
+img{
+    border: 5px red solid;
+}
